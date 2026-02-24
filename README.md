@@ -1,42 +1,28 @@
-## Hi there 👋
-Im Brandon, an aspiring IT professional with a strong focus on cybersecurity and computer science. I’m actively building my technical foundation by working on hands-on projects, experimenting with new tools, and exploring how systems are designed, secured, and maintained in real-world environments.
+# Hey, I’m Brandon 👋
 
-This is a fresh GitHub profile where I’ll be uploading:
+I’m an aspiring IT and cybersecurity professional focused on building real technical skills and a deep understanding of how systems work.
 
-Small but meaningful projects
+This is a fresh GitHub profile where I’ll be sharing smaller projects, labs, experiments, and work in progress as I continue learning and growing in tech.
 
-Security experiments and lab work
+## What I’m focused on
+- Cybersecurity
+- IT fundamentals and systems
+- Computer science
+- Hands on labs, scripts, and tooling
+- Learning in public
 
-Scripts, configurations, and automation ideas
 
-Ongoing learning projects as I grow my skill set
+## Outside of tech
+Outside of tech, I’m big on discipline, fitness, and long term personal growth. I enjoy:
+- Working out
+- Riding motorcycles
+- Writing
+- Learning across psychology, science, and technology
+- Building projects that compound over time
 
-My goal is to document my progress publicly, learn in the open, and continuously improve through practice and iteration.
+I’m also interested in content creation and documenting what I learn through writing, videos, and public repos like this one.
 
-  Areas of Interest
+## Long term mindset
+I have big ambitions, and I’m playing the long game.
 
-Cybersecurity fundamentals & defensive security
-
-Networking, systems, and operating systems
-
-Computer science concepts & problem-solving
-
-Automation, scripting, and tooling
-
-Learning how technology scales securely
-
-🚀 Ambitions & Long-Term Vision
-
-I have major ambitions and a long-term mindset when it comes to my career. I’m working toward becoming a highly capable and disciplined IT professional who understands both how systems work and how to protect them.
-
-My focus is on:
-
-Building deep technical skills, not just surface knowledge
-
-Developing strong problem-solving and analytical thinking
-
-Growing through consistent effort, not shortcuts
-
-Creating a portfolio that reflects real learning and real work
-
-This GitHub is part of that journey—every repository represents a step forward
+This GitHub is part of that journey: learning in public, staying consistent, and getting a little better with every project.
