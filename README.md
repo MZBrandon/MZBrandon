@@ -15,10 +15,10 @@ This is a fresh GitHub profile where I’ll be sharing smaller projects, labs, e
 ## Outside of tech
 Outside of tech, I’m big on discipline, fitness, and long term personal growth. I enjoy:
 - Working out
-- Riding motorcycles
-- Writing
+- Riding motorcycles and jeeps
+- Travleing 
 - Learning across psychology, science, and technology
-- Building projects that compound over time
+- Adreniline rush
 
 I’m also interested in content creation and documenting what I learn through writing, videos, and public repos like this one.
 
