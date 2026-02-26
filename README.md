@@ -8,9 +8,7 @@ This is a fresh GitHub profile where I’ll be sharing smaller projects, labs, e
 - Cybersecurity
 - IT fundamentals and systems
 - Computer science
-- Hands on labs, scripts, and tooling
-- Learning in public
-
+- Hands on labs
 
 ## Outside of tech
 Outside of tech, I’m big on discipline, fitness, and long term personal growth. I enjoy:
@@ -20,7 +18,6 @@ Outside of tech, I’m big on discipline, fitness, and long term personal growth
 - Learning across psychology, science, and technology
 - Adreniline rush
 
-I’m also interested in content creation and documenting what I learn through writing, videos, and public repos like this one.
 
 ## Long term mindset
 I have big ambitions, and I’m playing the long game.
