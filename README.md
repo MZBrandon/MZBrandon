@@ -9,13 +9,6 @@ This is a fresh GitHub profile where I’ll be sharing smaller projects, labs, e
 - IT fundamentals and systems
 - Computer science
 - Hands on labs
-
-## Outside of tech
-Outside of tech, I’m big on discipline, fitness, and long term personal growth. I enjoy:
-- Working out
-- Riding motorcycles and jeeps
-- Travleing 
-- Learning across psychology, science, and technology
 - Adreniline rush
 
 
