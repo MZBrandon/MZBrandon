@@ -10,6 +10,7 @@ This is a fresh GitHub profile where I’ll be sharing smaller projects, labs, e
 - Computer science
 - Hands on labs
 - Adreniline rush
+- Traveling & Exploring
 
 
 ## Long term mindset
